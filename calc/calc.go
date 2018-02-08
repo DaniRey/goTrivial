@@ -1,6 +1,6 @@
 package calc
 
-//adds two integer
+//Add two integers
 func Add(a int, b int) int {
 	return a + b
 }
